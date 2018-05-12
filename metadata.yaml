@@ -1,4 +1,8 @@
 _repo: Outlines-of-Mormon-Philosophy-Or-the-Answers-Given-by-the-Gospel-as-Revealed-Through-the-Prop__49357
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49357-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Lycurgus A.
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '45284'
     url: http://www.gutenberg.org/2009/agents/45284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49357#Outlines-of-Mormon-Philosophy-Or-the-Answers-Given-by-the-Gospel-as-Revealed-Through-the-Prop_
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2015-07-04'
 gutenberg_type: Text
